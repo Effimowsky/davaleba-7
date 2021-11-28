@@ -15,6 +15,7 @@
 	margin: 70px 1496px 200px 240px;
 	font-size: 32px;
 	display: inline-block;
+	font-family: 'Helvetica Neue';
 }
 .image-box {
 	width: 463px;
@@ -40,17 +41,23 @@
 	height: 65px;
 	background-color: #FFFFFF;
 	border-radius: 12px;
+	font-family: 'Helvetica Neue';
 }
 .image-2 {
 	position: relative;
 }
 .text-2 {
 	position: absolute;
-	/*top: 28px;
-	right: 67px;
-	bottom: 29px;
-	left: 30px;*/
 	margin: 28px 67px 29px 30px;
 	color: #171717;
+	font-family: 'HelveticaNeue bold';
 }
-
+.projects a {
+	text-decoration: none;
+	color: #171717;
+	margin-left: 1519px;
+	margin-top: 70px;
+	font-size: 18px;
+	font-family: 'HelveticaNeue bold';
+	display: inline-block;
+}
