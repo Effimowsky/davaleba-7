@@ -27,6 +27,11 @@
 .image {
 	margin-right: 25px;
 }
+.image-4 {
+	width: 216px;
+	height: 420px;
+	object-fit: cover;
+}
 .d-inline-block {
 	display: inline-block;
 	margin-right: 25px;
@@ -42,6 +47,10 @@
 	background-color: #FFFFFF;
 	border-radius: 12px;
 	font-family: 'Helvetica Neue';
+}
+.text-4 {
+	width: 176px;
+	height: 65px;
 }
 .image-2 {
 	position: relative;
